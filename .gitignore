@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# State (contains wallet address + personal data)
+monitor_state.json
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
